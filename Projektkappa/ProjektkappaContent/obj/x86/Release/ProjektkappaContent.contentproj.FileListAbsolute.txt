@@ -1,0 +1,2 @@
+D:\C#\XNA\Dungeon\Projektkappa\ProjektkappaContent\obj\x86\Release\ProjektkappaContent.contentprojAssemblyReference.cache
+D:\C#\XNA\Dungeon\Projektkappa\ProjektkappaContent\obj\x86\Release\ProjektkappaContent.contentproj.CoreCompileInputs.cache

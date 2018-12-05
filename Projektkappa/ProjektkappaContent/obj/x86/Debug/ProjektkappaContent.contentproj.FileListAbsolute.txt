@@ -1,0 +1,4 @@
+D:\C#\XNA\Casaris\Projektkappa\ProjektkappaContent\obj\x86\Debug\ProjektkappaContent.contentprojAssemblyReference.cache
+D:\C#\XNA\Casaris\Projektkappa\ProjektkappaContent\obj\x86\Debug\ProjektkappaContent.contentproj.CoreCompileInputs.cache
+D:\C#\XNA\Dungeon\Projektkappa\ProjektkappaContent\obj\x86\Debug\ProjektkappaContent.contentprojAssemblyReference.cache
+D:\C#\XNA\Dungeon\Projektkappa\ProjektkappaContent\obj\x86\Debug\ProjektkappaContent.contentproj.CoreCompileInputs.cache
