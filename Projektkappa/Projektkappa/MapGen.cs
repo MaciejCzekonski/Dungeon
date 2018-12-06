@@ -90,7 +90,7 @@ namespace Projektkappa
         int endSizeX, endSizeY, colSizeX, colSizeY, rowSizeX, rowSizeY, horSizeX, horSizeY, verSizeX, verSizeY, startX, startY, positionX, positionY, i = 0, j = 0;
         int kierunek; // 1 - dol, 2 - prawo, 3 - gora, 4 - lewo
         int countrow, countcol; // zeby nie bylo za duzo pokoi w jednej linii
-        int liczbaPokoi = 8;
+        int liczbaPokoi = 20;
         public int playerPositionX;
         public int playerPositionY;
         int count = 0;
